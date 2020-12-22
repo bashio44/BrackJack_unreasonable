@@ -1,0 +1,1 @@
+global.card3=1
